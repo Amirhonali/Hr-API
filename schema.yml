@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: TEST PROJECT
+  version: 1.0.0
+  description: Testing first drf
+paths: {}
+components: {}

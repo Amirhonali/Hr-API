@@ -1,7 +1,6 @@
 from django.contrib import admin
 
-from home.models import Course, Subject
+from .models import Course
 
 # Register your models here.
 admin.site.register(Course)
-admin.site.register(Subject)
